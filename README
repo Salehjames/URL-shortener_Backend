@@ -1,0 +1,22 @@
+# URL Shortener Backend
+
+This is the backend server for a URL shortener application.
+
+## Getting Started
+
+To get started with this application, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install dependencies by running `npm install`.
+3. Configure environment variables as needed.
+4. Start the server by running `npm start`.
+5. The server will start running at `http://localhost:8080`.
+
+## Usage
+
+This backend server provides APIs for shortening long URLs and generating qr code. It also includes functionality for tracking usage statistics of shortened URLs.
+
+## API Documentation
+
+### Contributing
+Contributions to this project are welcome! If you have any suggestions, bug reports, or want to contribute new features, please feel free to submit pull requests or open issues.
