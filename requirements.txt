@@ -2,4 +2,3 @@ fastapi==0.110.0
 pydantic==2.6.4
 qrcode==7.4.2
 SQLAlchemy==2.0.28
-uivcorn==0.29.0
